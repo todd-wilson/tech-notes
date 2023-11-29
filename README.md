@@ -1,5 +1,8 @@
 # Azure Cloud Info
 ## Administrator
-* [Prerequisites](azure-administrator/prerequisites.md)
-* [App Service](azure-administrator/app-service.md)
-* [Prerequisites](azure-administrator/containers/docker.md)
+* Getting Started
+  * [Prerequisites](azure-administrator/prerequisites.md)
+* Web Apps
+  * [App Service](azure-administrator/app-service.md)
+* Containers
+  * [Docker](azure-administrator/containers/docker.md)
