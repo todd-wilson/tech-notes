@@ -21,10 +21,3 @@
 * Graphical which makes things easier to learn.
 * Helps you discover available features.
 
-# Azure App Service App
-Can be create with:
-* Azure Portal
-* Azure CLI
-* A script like Powershell or Python
-* An IDE (Integrated Development Environment) like Visual Studio
-
