@@ -1,5 +1,5 @@
 # Azure Cloud Info
-## Adminsitrator
+## Administrator
 * Prerequisites
 * App Service
 * Docker
