@@ -1,5 +1,5 @@
 # Azure Cloud Info
 ## Administrator
-* Prerequisites
+* [Prerequisites](./prerequisites.md)
 * App Service
 * Docker
